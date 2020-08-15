@@ -1,6 +1,6 @@
-# xd-sample-collection
+# xd-sample-collections
 
-All XD design collection
+All XD design sample collections.
 
 ## Collections
 
