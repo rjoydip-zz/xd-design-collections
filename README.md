@@ -1,7 +1,7 @@
-# xd-sample-collections
+# xd-design-collections
 
-All XD design sample collections.
+All XD design collections.
 
 ## Collections
 
-- [Furon](/xd/furon.xd) - A blog posting app for technology & programing language
+- [Furon offline](/xd/furon_offline.xd) - A blog posting app for technology & programing language
