@@ -4,4 +4,5 @@ All XD design collections.
 
 ## Collections
 
-- [Furon offline](/xd/furon_offline.xd) - A blog posting app for technology & programing language
+- [Furon](/xd/Furon/Furon.xd) - Blog posting app for technology & programing language
+- [Automab](/xd/Automab/Automab.xd) - Home automation application
